@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "seller-aarya",
+      "name": "Aarya",
+      "email": "aarya@gss.school",
+      "role": "seller",
+      "shop": "Aarya’s Shop",
+      "passwordHash": null,
+      "demo": true,
+      "createdAt": "2026-10-07T00:00:00.000Z"
+    }
+  ],
+  "products": [],
+  "orders": [],
+  "reviews": [],
+  "messages": [],
+  "notifications": []
+}
